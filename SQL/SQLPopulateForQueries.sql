@@ -116,7 +116,7 @@ operate on sand.', 0),
 same as computer simulation on qualified
 terrain.', 'No problems with
 expected performance', 'Recommend inclusion of
-additional information in operating manual stating: donít
+additional information in operating manual stating: don‚Äôt
 operate on mud.', 1),
  
  
@@ -132,7 +132,7 @@ performance. ', 0),
  
 (1005, 789013, 330, 221095, '10-14-2014', 'Tried actual experimental environment
 same as computer simulation on
-unqualified terrain (5î sand).', '45 degree outside
+unqualified terrain (5‚Äù sand).', '45 degree outside
 tilt and tipping.
 ', 'Test Not Completed. ', 0),
 
@@ -142,7 +142,7 @@ same as computer simulation on qualified
 terrain.', 'No problems with
 expected performance', 
 'Recommend inclusion of
-additional information in operating manual stating: donít
+additional information in operating manual stating: don‚Äôt
 operate on mud.', 1),
  
  
@@ -163,18 +163,18 @@ expected performance',
 
 (1009, 789019, 320, 221094, '03-25-2014', 'Tried actual experimental environment
 same as computer simulation on
-unqualified terrain (5î sand).', '45 degree outsidetilt and tipping.', 
+unqualified terrain (5‚Äù sand).', '45 degree outsidetilt and tipping.', 
 'Test Not Completed. ', 0),
 
 (1010, 789020, 330, 221095, '08-11-2014', 'Tried actual experimental environment
 same as computer simulation on
-unqualified terrain (5î sand).', '45 degree outside
+unqualified terrain (5‚Äù sand).', '45 degree outside
 tilt and tipping.', 
 'Test Not Completed. ', 0),
 
 (1011, 789013, 330, 221094, '06-04-2014', 'Tried actual experimental environment
 same as computer simulation on
-unqualified terrain (5î sand).', '45 degree outside
+unqualified terrain (5‚Äù sand).', '45 degree outside
 tilt and tipping.', 'Test Not Completed. ', 0),
 
 (1012, 789014, 320, 221095, '12-14-2014', 'Used computer simulation of vehicle with 40 pound rider 3
@@ -188,4 +188,3 @@ documentation to Marketing about intended operating
 environment for JCSUV7. Recommend inclusion of
 additional information in operating manual stating: do not
 operate on sand.', 0);
- 
