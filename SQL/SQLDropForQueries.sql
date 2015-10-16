@@ -13,10 +13,3 @@ DROP TABLE ptblModel;
 DROP VIEW vReporter;
 DROP VIEW vPRStatus;
 DROP VIEW vPRCount;
-
-
-
-
-
-
-
