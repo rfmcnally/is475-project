@@ -26,4 +26,3 @@ LEFT OUTER JOIN ptblUser u
 ON u.UserID = pr.UserID
 LEFT OUTER JOIN ptblOther other
 ON other.OtherID = pr.OtherID;
-
